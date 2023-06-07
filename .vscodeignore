@@ -1,0 +1,16 @@
+.github/**
+.gitignore
+.vscode/**
+.vscode-test/**
+docker/**
+assets/test/**
+node_modules/**
+out/**
+scripts/**
+src/**
+test/**
+**/.eslintrc.json
+**/.prettierignore
+**/.prettierrc.json
+**/tsconfig.json
+**/*.map
