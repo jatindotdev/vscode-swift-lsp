@@ -2,7 +2,7 @@
 
 🔥 A fork of the [Swift for Visual Studio Code](github.com/swift-server/vscode-swift) extension with only support for LSP via the Apple project [SourceKit-LSP](https://github.com/apple/sourcekit-lsp). I have created this fork for my personal use as I dont use the other features of the extension and just want the LSP support.
 
-> Last Updated to hash `67c766d` Jun 15, 2023
+> Last Updated to hash [`67c766d`](https://github.com/swift-server/vscode-swift/compare/67c766d236ea138a2316334b6fb2be8969f9efaa...main) Jun 15, 2023
 
 This extension adds language support for Swift to Visual Studio Code. It supports:
 
