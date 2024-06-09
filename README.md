@@ -1,6 +1,6 @@
 # Swift for Visual Studio Code
 
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/jatindotdev.swift-lsp)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/jatindotdev.swift-lsp)](https://marketplace.visualstudio.com/items?itemName=jatindotdev.swift-lsp)
 
 
 🔥 A fork of the [Swift for Visual Studio Code](github.com/swift-server/vscode-swift) extension with only support for LSP via the Apple project [SourceKit-LSP](https://github.com/apple/sourcekit-lsp). I have created this fork for my personal use as I dont use the other features of the extension and just want the LSP support.
